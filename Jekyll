@@ -1,0 +1,4 @@
+git clone https://github.com/plusjade/jekyll-bootstrap.git git-Jeriah.github.com
+cd git-Jeriah.github.com
+git remote set-url origin git@github.com:git-Jeriah/git-Jeriah.github.com.git
+git push origin master
